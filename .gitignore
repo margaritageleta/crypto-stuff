@@ -1,0 +1,9 @@
+*.pem
+*.enc
+*/__pycache__/*
+*.key
+*.png
+.DS_Store
+*.block
+*.pickle
+*.txt
